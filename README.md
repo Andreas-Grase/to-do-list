@@ -11,7 +11,7 @@
     <img src="./img/logo.png" alt="Logo" width="100">
   </a>
 
-  <h3 align="center">To do list - -Project</h3>
+  <h3 align="center">To do list - Project</h3>
 
   
 </p>
@@ -22,19 +22,6 @@
   <ol>
     <li>
         <a href="#sobre-o-projeto">Sobre o projeto</a>
-        <!-- <ul>
-            <li><a href="#motivação">Motivação</a></li>
-            <li><a href="#ferramentas">Ferramentas</a></li>
-            <li><a href="#pré-requisitos">Pré-requisitos</a></li>
-            <li>
-              <a href="#instalação">Instalação</a>
-              <ul>
-                <li><a href="#via-conda">Via Conda</a></li>
-                <li><a href="#via-pip">Via Pip</a></li>
-                <li><a href="#finalizando-instalação-somente-windows">Finalizando instalação (somente Windows)</a></li>
-              </ul>
-            </li>
-        </ul> -->
     </li>
     <li>
         <a href="#como-começar">Como começar</a>
@@ -50,6 +37,8 @@
 ## Sobre o projeto
 
 Projeto desenvolvido para ministrar aula de HTML, CSS, Javascript, React, Nodejs e MongoDB
+
+Para ver as versões do projeto basta trocar de brach. Cada branch tem um objetivo, sendo eles:
 
 - v1 - Html, css e js :heavy_check_mark:
 - v2 - Transformando código em ReactJs :construction:
